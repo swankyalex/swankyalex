@@ -12,9 +12,10 @@
   ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge)&nbsp;
   ![Django](https://img.shields.io/badge/-Django-brightgreen?logo=django&style=for-the-badge&url=https://www.djangoproject.com/)&nbsp;
   ![REST-API](https://img.shields.io/badge/-RestAPI-9cf?logo=restapi&style=for-the-badge&url=https://www.djangoproject.com/)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&style=for-the-badge&url=https://www.djangoproject.com/)&nbsp;
   ![Scikit-Learn](https://img.shields.io/badge/-Sklearn-black?logo=scikitlearn&style=for-the-badge&url=https://scikit-learn.org/stable/)&nbsp;
   ![Numpy](https://img.shields.io/badge/-Numpy-blue?logo=numpy&style=for-the-badge&url=https://numpy.org/)&nbsp;
-  ![Pandas](https://img.shields.io/badge/-Pandas-darkblue?logo=pandas&style=for-the-badge&url=https://pandas.pydata.org/)&nbsp;
+  ![Pandas](https://img.shields.io/badge/-Pandas-darkblue?logo=pandas&style=for-the-badge&url=https://pandas.pydata.org/)  
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?logo=bootstrap&style=for-the-badge&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge&logoColor=white)&nbsp;
   ![Github](https://img.shields.io/badge/-GitHub-lightgrey?logo=github&style=for-the-badge&logoColor=white)&nbsp;
@@ -23,7 +24,7 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&style=for-the-badge&logoColor=white)&nbsp; 
   ![SQL](https://img.shields.io/badge/-SQL-9cf?logo=sql&style=for-the-badge&logoColor=white)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&style=for-the-badge&logoColor=white)&nbsp;
-  ![Markdown](https://img.shields.io/badge/-Markdown-white?logo=markdown&style=for-the-badge&logoColor=black)&nbsp;  
+  ![Markdown](https://img.shields.io/badge/-Markdown-9cf?logo=markdown&style=for-the-badge&logoColor=black)&nbsp;  
   #### Programming priniples I've followed
   - SOLID (Single responsibility, Open/Closed, Linskov substitution, Interface segregation, Dependency invertion principles)
   - OOP (Object Oriented Programming)
