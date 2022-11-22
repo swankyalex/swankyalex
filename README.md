@@ -13,7 +13,7 @@
   [![Pytest](https://img.shields.io/badge/-Pytest-9cf?logo=pytest&logoColor=white&style=for-the-badge)](https://docs.pytest.org/en/7.2.x/)&nbsp;
   [![Poetry](https://img.shields.io/badge/-poetry-purple?logo=poetry&style=for-the-badge&logoColor=white)](https://python-poetry.org/)&nbsp;
   [![Django](https://img.shields.io/badge/-Django-brightgreen?logo=django&style=for-the-badge&url=https://www.djangoproject.com/)](https://www.djangoproject.com/)&nbsp;
-  [![REST-API](https://img.shields.io/badge/-RestAPI-9cf?logo=django&style=for-the-badge&url=https://www.djangoproject.com/)](https://www.django-rest-framework.org/)&nbsp;
+  [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org/)&nbsp;
   [![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&style=for-the-badge&url=https://www.djangoproject.com/)](https://www.docker.com/)&nbsp;
   [![Scikit-Learn](https://img.shields.io/badge/-Sklearn-black?logo=scikitlearn&style=for-the-badge&url=https://scikit-learn.org/stable/)](https://scikit-learn.org/)&nbsp;
   [![Numpy](https://img.shields.io/badge/-Numpy-blue?logo=numpy&style=for-the-badge&url=https://numpy.org/)](https://numpy.org/)&nbsp;
