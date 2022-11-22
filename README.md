@@ -10,12 +10,15 @@
   > *Faculty “Infocommunications system”, speciality “Infocommunication engineer”, from 2009 till 2016.*
   #### Stack of technologies
   [![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)&nbsp;
+  [![Pytest](https://img.shields.io/badge/-Pytest-9cf?logo=pytest&logoColor=white&style=for-the-badge)](https://docs.pytest.org/en/7.2.x/)&nbsp;
+  [![Poetry](https://img.shields.io/badge/-poetry-purple?logo=poetry&style=for-the-badge&logoColor=white)](https://python-poetry.org/)&nbsp;
   [![Django](https://img.shields.io/badge/-Django-brightgreen?logo=django&style=for-the-badge&url=https://www.djangoproject.com/)](https://www.djangoproject.com/)&nbsp;
-  [![REST-API](https://img.shields.io/badge/-RestAPI-9cf?logo=restapi&style=for-the-badge&url=https://www.djangoproject.com/)](https://www.django-rest-framework.org/)&nbsp;
+  [![REST-API](https://img.shields.io/badge/-RestAPI-9cf?logo=django&style=for-the-badge&url=https://www.djangoproject.com/)](https://www.django-rest-framework.org/)&nbsp;
   [![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&style=for-the-badge&url=https://www.djangoproject.com/)](https://www.docker.com/)&nbsp;
   [![Scikit-Learn](https://img.shields.io/badge/-Sklearn-black?logo=scikitlearn&style=for-the-badge&url=https://scikit-learn.org/stable/)](https://scikit-learn.org/)&nbsp;
   [![Numpy](https://img.shields.io/badge/-Numpy-blue?logo=numpy&style=for-the-badge&url=https://numpy.org/)](https://numpy.org/)&nbsp;
-  [![Pandas](https://img.shields.io/badge/-Pandas-darkblue?logo=pandas&style=for-the-badge&url=https://pandas.pydata.org/)](https://pandas.pydata.org/)  
+  [![Pandas](https://img.shields.io/badge/-Pandas-darkblue?logo=pandas&style=for-the-badge&url=https://pandas.pydata.org/)](https://pandas.pydata.org/)&nbsp;
+  [![MLFlow](https://img.shields.io/badge/-MLflow-darkblue?logo=mlflow&style=for-the-badge&url=https://pandas.pydata.org/)](https://mlflow.org/)&nbsp;
   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?logo=bootstrap&style=for-the-badge&logoColor=white)](https://getbootstrap.com/)&nbsp;
   [![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge&logoColor=white)](https://git-scm.com/)&nbsp;
   [![Github](https://img.shields.io/badge/-GitHub-lightgrey?logo=github&style=for-the-badge&logoColor=white)](https://github.com/)&nbsp;
