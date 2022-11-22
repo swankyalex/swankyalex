@@ -8,27 +8,52 @@
 - 🏫 **Education:**
   - Belarusian State Academy of Communication (BSAC)
   > *Faculty “Infocommunications system”, speciality “Infocommunication engineer”, from 2009 till 2016.*
-  #### Stack of technologies
+
+  #### I'm using:
+    [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)&nbsp;
+    [![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
+    [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)&nbsp;
+    [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)&nbsp;
+    [![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)](https://insomnia.rest/)&nbsp;
+    
+    
+  #### Stack of technologies:
+  
   [![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)&nbsp;
-  [![Pytest](https://img.shields.io/badge/-Pytest-9cf?logo=pytest&logoColor=white&style=for-the-badge)](https://docs.pytest.org/en/7.2.x/)&nbsp;
+  [![Make](https://img.shields.io/badge/Make-%23008FBA.svg?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/make/)&nbsp;
   [![Poetry](https://img.shields.io/badge/-poetry-purple?logo=poetry&style=for-the-badge&logoColor=white)](https://python-poetry.org/)&nbsp;
-  [![Django](https://img.shields.io/badge/-Django-brightgreen?logo=django&style=for-the-badge&url=https://www.djangoproject.com/)](https://www.djangoproject.com/)&nbsp;
+  [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)&nbsp;
   [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org/)&nbsp;
-  [![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&style=for-the-badge&url=https://www.djangoproject.com/)](https://www.docker.com/)&nbsp;
-  [![Scikit-Learn](https://img.shields.io/badge/-Sklearn-black?logo=scikitlearn&style=for-the-badge&url=https://scikit-learn.org/stable/)](https://scikit-learn.org/)&nbsp;
-  [![Numpy](https://img.shields.io/badge/-Numpy-blue?logo=numpy&style=for-the-badge&url=https://numpy.org/)](https://numpy.org/)&nbsp;
-  [![Pandas](https://img.shields.io/badge/-Pandas-darkblue?logo=pandas&style=for-the-badge&url=https://pandas.pydata.org/)](https://pandas.pydata.org/)&nbsp;
-  [![MLFlow](https://img.shields.io/badge/-MLflow-darkblue?logo=mlflow&style=for-the-badge&url=https://pandas.pydata.org/)](https://mlflow.org/)&nbsp;
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?logo=bootstrap&style=for-the-badge&logoColor=white)](https://getbootstrap.com/)&nbsp;
-  [![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge&logoColor=white)](https://git-scm.com/)&nbsp;
-  [![Github](https://img.shields.io/badge/-GitHub-lightgrey?logo=github&style=for-the-badge&logoColor=white)](https://github.com/)&nbsp;
-  [![PyCharm](https://img.shields.io/badge/-PyCharm-brightgreen?logo=pycharm&style=for-the-badge&logoColor=white)](https://www.jetbrains.com/pycharm/)&nbsp;
-  [![Sublime](https://img.shields.io/badge/-Sublime-orange?logo=sublime-text&style=for-the-badge&logoColor=white)](https://www.sublimetext.com/)  
+  [![Pytest](https://img.shields.io/badge/-Pytest-blue?logo=pytest&logoColor=white&style=for-the-badge)](https://docs.pytest.org/en/7.2.x/)&nbsp; 
+  
+  [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)&nbsp; 
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&style=for-the-badge&logoColor=white)](https://postgresql.org)&nbsp; 
-  [![SQL](https://img.shields.io/badge/-SQL-9cf?logo=sql&style=for-the-badge&logoColor=white)](https://www.mysql.com/)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&style=for-the-badge&logoColor=white)&nbsp;
-  ![Markdown](https://img.shields.io/badge/-Markdown-9cf?logo=markdown&style=for-the-badge&logoColor=black)&nbsp;
-  [![Make](https://img.shields.io/badge/Make-%23008FBA.svg?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/make/)
+  [![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge&logoColor=white)](https://git-scm.com/)&nbsp;
+  [![Github](https://img.shields.io/badge/-GitHub-lightgrey?logo=github&style=for-the-badge&logoColor=white)](https://github.com/)&nbsp;   
+   
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?logo=bootstrap&style=for-the-badge&logoColor=white)](https://getbootstrap.com/)&nbsp;
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+  [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)&nbsp; 
+  
+ 
+   #### Machine Learning libraries:
+   
+  [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)&nbsp; 
+  [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)&nbsp;
+  [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)&nbsp;
+  [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)&nbsp;  
+  [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)&nbsp;
+  [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)&nbsp;
+  [![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)](https://mlflow.org/)&nbsp;
+  
+  
+  #### Love to learn new skills here:  
+  
+  [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
+  [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)
+  [![Stepik](https://img.shields.io/badge/Stepik-black?style=for-the-badge&logo=Stepik&logoColor=white)](https://stepik.org/users/295660334)
+  
   #### Programming priniples I've followed
   - SOLID (Single responsibility, Open/Closed, Linskov substitution, Interface segregation, Dependency invertion principles)
   - OOP (Object Oriented Programming)
