@@ -23,7 +23,7 @@
   [![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge&logoColor=white)](https://git-scm.com/)&nbsp;
   [![Github](https://img.shields.io/badge/-GitHub-lightgrey?logo=github&style=for-the-badge&logoColor=white)](https://github.com/)&nbsp;
   [![PyCharm](https://img.shields.io/badge/-PyCharm-brightgreen?logo=pycharm&style=for-the-badge&logoColor=white)](https://www.jetbrains.com/pycharm/)&nbsp;
-  [![Sublime](https://img.shields.io/badge/-Sublime-orange?logo=sublime-text&style=for-the-badge&logoColor=white)](https://www.sublimetext.com/)&nbsp;  
+  [![Sublime](https://img.shields.io/badge/-Sublime-orange?logo=sublime-text&style=for-the-badge&logoColor=white)](https://www.sublimetext.com/)  
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&style=for-the-badge&logoColor=white)](https://postgresql.org)&nbsp; 
   [![SQL](https://img.shields.io/badge/-SQL-9cf?logo=sql&style=for-the-badge&logoColor=white)](https://www.mysql.com/)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&style=for-the-badge&logoColor=white)&nbsp;
