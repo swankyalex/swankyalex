@@ -24,13 +24,11 @@
   [![Poetry](https://img.shields.io/badge/-poetry-purple?logo=poetry&style=for-the-badge&logoColor=white)](https://python-poetry.org/)&nbsp;
   [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)&nbsp;
   [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org/)&nbsp;
-  [![Pytest](https://img.shields.io/badge/-Pytest-blue?logo=pytest&logoColor=white&style=for-the-badge)](https://docs.pytest.org/en/7.2.x/)&nbsp; 
-  
+  [![Pytest](https://img.shields.io/badge/-Pytest-blue?logo=pytest&logoColor=white&style=for-the-badge)](https://docs.pytest.org/en/7.2.x/)&nbsp;   
   [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)&nbsp; 
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&style=for-the-badge&logoColor=white)](https://postgresql.org)&nbsp; 
   [![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge&logoColor=white)](https://git-scm.com/)&nbsp;
   [![Github](https://img.shields.io/badge/-GitHub-lightgrey?logo=github&style=for-the-badge&logoColor=white)](https://github.com/)&nbsp;   
-   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?logo=bootstrap&style=for-the-badge&logoColor=white)](https://getbootstrap.com/)&nbsp;
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
