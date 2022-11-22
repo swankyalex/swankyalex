@@ -9,15 +9,15 @@
   - Belarusian State Academy of Communication (BSAC)
   > *Faculty “Infocommunications system”, speciality “Infocommunication engineer”, from 2009 till 2016.*
 
-  #### I'm using:
-    [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)&nbsp;
-    [![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
-    [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)&nbsp;
-    [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)&nbsp;
-    [![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)](https://insomnia.rest/)&nbsp;
+#### I'm using:
+  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)&nbsp;
+  [![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
+  [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)&nbsp;
+  [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)&nbsp;
+  [![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)](https://insomnia.rest/)&nbsp;
     
     
-  #### Stack of technologies:
+## Stack of technologies:
   
   [![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)&nbsp;
   [![Make](https://img.shields.io/badge/Make-%23008FBA.svg?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/make/)&nbsp;
@@ -69,7 +69,7 @@
     </a>
   </p>
   
-## Constact me
+## Contact me
 
   <p align='center'>
     <a href='https://t.me/swankyaleks' target='_blank'><img src='https://img.shields.io/badge/-@swankyaleks-blue?logo=telegram&style=for-the-badge&logoColor=white' /></a>
