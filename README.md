@@ -1,6 +1,7 @@
-<img src='https://i.ibb.co/34qDKC6/photo-2022-11-18-12-12-23.jpg' width='320x' height='212px' align='right' />
+
 
 ## About me
+<img src='https://i.ibb.co/34qDKC6/photo-2022-11-18-12-12-23.jpg' width='320x' height='212px' align='right' />
 - 🧑‍ **Name:** Aliaksei Antsileuski
 - 🎂 **Birthday:** October 27, 1993
 - 🌆 **City:** Belarus/Minsk
